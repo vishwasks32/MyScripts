@@ -1,4 +1,4 @@
 MyScripts
 =========
 
-contains some of my useful python scripts
+contains some of my useful python and bash scripts
