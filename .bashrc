@@ -9,4 +9,4 @@ alias df='df -H'
 alias du='du -ch'
 alias rm='rm -i'
 export PS1='\u-:\W$'
-
+export MESA_LOADER_DRIVER_OVERRIDE=i915
